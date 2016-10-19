@@ -4,6 +4,6 @@
 
 
 
-__all__=['comm','comm.noise','comm.signal_generator','signal']
+__all__=['comm','signal','noise','signal_generator']
 
-
+from comPy import *
