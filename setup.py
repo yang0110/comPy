@@ -1,28 +1,19 @@
-from setuptools import setup, find_packages
-import os, sys, distutils, numpy
 
+from distutils.core import setup
 
 setup(name='comPy',
 
-	  version='0.2',
+	  version='0.4',
 	  description='communication system and signal processing library',
 	  url='https://github.com/yang0110/comPy',
 	  author='Kaige Yang',
 	  license='MIT',
-	  packages=['comPy', 'comPy.comm','comPy.signal'],
-	  install_requires=['numpy','scipy','matplotlib'],
-	  zip_safe=False,
-	  classifiers = [
+	  author_email='kaige.yang0110@gmail.com',
+	  packages=['comPy'],
+	  download_url='https://github.com/yang0110/comPy/tarball/0.1',
+	  
 
-        'Development Status :: 1st stage',
-
-        'Intended Audience :: Science/Research',
-
-        'Intended Audience :: communication and signal processing academic',
-
-        'Programming Language :: Python',
-
-        'Topic :: Scientific/Engineering',]
+	 
         )
 
         
@@ -40,6 +31,6 @@ URL = 'https://github.com/yang0110/comPy'
 
 LICENSE = 'MIT'
 
-VERSION = '0.2'
+VERSION = '0.1'
 
 
