@@ -4,7 +4,7 @@ import os, sys, distutils, numpy
 
 setup(name='comPy',
 
-	  version='0.1',
+	  version='0.2',
 	  description='communication system and signal processing library',
 	  url='https://github.com/yang0110/comPy',
 	  author='Kaige Yang',
@@ -32,7 +32,7 @@ DESCRIPTION = 'Communication signal system and signal processing  with Python'
 
 LONG_DESCRIPTION = open('README.py').read()
 
-MAINTAINER&OWNER= 'Kaige Yang'
+MAINTAINER= 'Kaige Yang'
 
 OWNER_EMAIL = 'Kaige.yang0110@gmail.com'
 
@@ -40,6 +40,6 @@ URL = 'https://github.com/yang0110/comPy'
 
 LICENSE = 'MIT'
 
-VERSION = '0.1'
+VERSION = '0.2'
 
 
