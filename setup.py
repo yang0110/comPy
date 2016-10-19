@@ -10,7 +10,7 @@ setup(name='comPy',
 	  license='MIT',
 	  author_email='kaige.yang0110@gmail.com',
 	  packages=['comPy'],
-	  download_url='https://github.com/yang0110/comPy/tarball/0.1',
+	  download_url='https://github.com/yang0110/comPy/tarball/0.4',
 	  
 
 	 
