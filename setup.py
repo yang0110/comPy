@@ -19,18 +19,9 @@ setup(name='comPy',
         
 
 
-DESCRIPTION = 'Communication signal system and signal processing  with Python'
 
 
 
-MAINTAINER= 'Kaige Yang'
 
-OWNER_EMAIL = 'Kaige.yang0110@gmail.com'
-
-URL = 'https://github.com/yang0110/comPy'
-
-LICENSE = 'MIT'
-
-VERSION = '0.1'
 
 
